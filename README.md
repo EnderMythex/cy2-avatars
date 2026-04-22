@@ -2,6 +2,8 @@
 
 Avatar images used in the game **Cybercookie v2**.
 
+https://cybercookie.party
+
 ## Disclaimer
 
 > **The images in this repository do not belong to me.**
