@@ -2,7 +2,7 @@
 
 Avatar images used in the game **Cybercookie v2**.
 
-https://cybercookie.party
+https://cybercookie.party | https://app.cybercookie.party
 
 ## Disclaimer
 
